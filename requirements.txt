@@ -52,6 +52,7 @@ frozenlist @ file:///C:/b/abs_06ctmb1zeo/croot/frozenlist_1730903113463/work
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.67.1
+gunicorn==23.0.0
 h5py==3.12.1
 idna==3.10
 imagesize @ file:///C:/Windows/TEMP/abs_3cecd249-3fc4-4bfc-b80b-bb227b0d701en12vqzot/croots/recipe/imagesize_1657179501304/work
