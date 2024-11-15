@@ -1,0 +1,17 @@
+# Ignore virtual environment folder (if created in future)
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore IDE settings (if you use them in future)
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables (if used in future)
+.env
